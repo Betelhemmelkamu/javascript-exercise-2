@@ -1,4 +1,4 @@
-//array methods 
+//array methods https://www.w3schools.com/js/js_array_methods.asp
 Array Methods: Array methods are functions that operate on arrays, which are collections of data. They allow you to modify, manipulate, and extract data from arrays.
 
 Purpose of Array Methods: Array methods serve various purposes, including:
@@ -12,7 +12,9 @@ Concatenating Arrays: Methods like concat() allow you to combine multiple arrays
 Searching and Sorting: Methods like indexOf() and lastIndexOf() search for specific elements within an array, while sort() sorts the array's elements.
 
 What are Functions?: Functions are reusable blocks of code that encapsulate a specific task or operation. They allow you to modularize your code, making it more organized, maintainable, and reusable.
-// functions
+
+// functions https://www.w3schools.com/js/js_functions.asp and https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
+
 Defining Functions: Functions are defined using the function keyword followed by the function name, parameter list (if any), and the function body enclosed in curly braces ({}).
 
 Calling Functions: Functions are called using their name followed by parentheses containing any arguments or parameters passed to the function.
@@ -72,7 +74,9 @@ Memoization: Memoizing functions to store results for repeated calls, improving 
 Currying: Currying functions to break them down into smaller functions, making them more modular and reusable.
 
 Closures: Creating closures to capture the context of a function, enabling access to its lexical scope.
-// control flow
+
+// control flow https://www.javascripthelp.org/learn/basics/control-flow-statements/
+
 Conditional Statements:
 
 Conditional statements evaluate expressions to determine whether specific conditions are met. Based on the outcome of the evaluation, these statements determine the path of execution.
